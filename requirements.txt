@@ -6,4 +6,5 @@ thop
 chardet
 charset-normalizer
 Pillow
+opencv-python
 ultralytics
