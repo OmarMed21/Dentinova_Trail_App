@@ -1,8 +1,9 @@
 numpy
-torch==2.3.0
-torchvision==0.18.0
-tenacity==8.3.0
+torch
+torchvision
+tenacity
 thop
 chardet
 charset-normalizer
-opencv-python
+Pillow
+ultralytics
