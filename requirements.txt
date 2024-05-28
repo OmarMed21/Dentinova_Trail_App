@@ -6,5 +6,5 @@ thop
 chardet
 charset-normalizer
 Pillow
-opencv-python-headless
+opencv-python
 git+https://github.com/ultralytics/ultralytics.git
