@@ -8,7 +8,6 @@ Dentinova's Teeth F Detection App is an innovative tool designed to assist denta
 
 ## Features
 
-- **Rapid Analysis:** Quickly upload dental X-ray images and receive immediate detection results.
 - **Accurate Classification:**  Identify various dental issues, including:
     - Sound Tooth Structure
     - Faint Visual Change in Enamel
