@@ -6,4 +6,3 @@ thop
 chardet
 charset-normalizer
 opencv-python
-ultralytics
