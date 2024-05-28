@@ -45,5 +45,5 @@ if uploaded_files:
                 cv2.rectangle(frame, (x1, y1), (x2, y2), colors[int(class_id)], 2)
                 cv2.putText(frame, str(class_id), (x1 + 10, y1 + 10),
                             cv2.FONT_HERSHEY_COMPLEX, 1, colors[int(class_id)], 1)
-                cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+                # cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
         st.image(frame, caption=uploaded_file.name, use_column_width=False) 
